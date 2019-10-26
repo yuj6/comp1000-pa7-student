@@ -1,8 +1,9 @@
 /*********************************************************************
-*	Lab 8 - PA7a
+*	Lab 9 - PA7a
 *	YOUR NAME HERE
-*	COMP1000-XX  (ENTER YOUR SESSION, EITHER 05/06 or 07/08)
-*	XX/XX/2016  (UPDATE THE DATE) 
+*
+*   COMP1000-XX  (ENTER YOUR SESSION, EITHER 09/10 or 11/12)
+*	10/XX/2019  (UPDATE THE DATE) 
 *
 **********************************************************************
 *	Problem Description
