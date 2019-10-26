@@ -2,7 +2,7 @@
 *	Lab 9 - PA7a
 *	YOUR NAME HERE
 *
-*   COMP1000-XX  (ENTER YOUR SESSION, EITHER 09/10 or 11/12)
+*	COMP1000-XX  (ENTER YOUR SESSION, EITHER 09/10 or 11/12)
 *	10/XX/2019  (UPDATE THE DATE) 
 *
 **********************************************************************
