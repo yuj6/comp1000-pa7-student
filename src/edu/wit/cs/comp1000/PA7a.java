@@ -3,7 +3,7 @@
 *	YOUR NAME HERE
 *
 *	COMP1000-XX  (XX is your session number)
-*	MM/DD/YYYY  (UPDATE THE DATE) 
+*	MM/DD/YYYY   (UPDATE THE DATE) 
 **********************************************************************
 *	Problem Description (UPDATE THE DESCRIPTION)
 *
@@ -34,7 +34,7 @@ public class PA7a {
 	 * Determines if an input is a leap year
 	 * 
 	 * @param year year in question
-	 * @ereturn true if a leap year
+	 * @return true if a leap year
 	 */
 	public static boolean isLeapYear(int year) {
 		return false; // TODO: replace with your code
@@ -46,7 +46,7 @@ public class PA7a {
 	 * @param month title
 	 * @param startDay 0=Sunday ... 6=Saturday
 	 * @param numDays number of days in the month
-	 * @return day of the week of the last day of the month
+	 * @return one day of the week later than the last printed day
 	 */
 	public static int printMonth(String month, int startDay, int numDays) {
 		return 0; // TODO: replace with your code
